@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/4d-for-ios/4d-for-ios-form-list-ThreeLabelsList/blob/master/Three-Labels-List-List-form.gif" alt="Three Labels List" height="auto" width="300"></p>
+<p align="center"><img src="https://github.com/4d-for-ios/4d-for-ios-form-list-ThreeLabelsList/blob/master/template.gif" alt="Three Labels List" height="auto" width="300"></p>
 
 ## Three Labels List
 
